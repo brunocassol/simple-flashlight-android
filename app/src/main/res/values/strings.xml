@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Flashlight Open Source</string>
+    <string name="github_link"><a href="https://github.com/brunocassol/simple-flashlight-android">github.com/brunocassol/simple-flashlight-android</a></string>
+</resources>
