@@ -9,8 +9,8 @@ A very simple flashlight app for Android phones. Allows using of camera's flash 
 
 ## Contributors
 
-[Bruno Cassol](https://github.com/brunocassol/)
-[Android Studio](https://developer.android.com/sdk/installing/studio.html)
+*   [Bruno Cassol](https://github.com/brunocassol/)
+*   [Android Studio](https://developer.android.com/sdk/installing/studio.html)
 
 ## MIT License
 
