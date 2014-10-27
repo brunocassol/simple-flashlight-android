@@ -3,7 +3,7 @@ Simple Flashlight Android
 
 A very simple Flashlight app for Android phones. Allows using of camera's flash as a lantern.
 
-![](https://github.com/brunocassol/simple-flashlight-android/screenshot.png)
+![](https://raw.githubusercontent.com/brunocassol/simple-flashlight-android/master/screenshot.png)
 
 ## Contributors
 
